@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m an iOS software engineer with a keen interest in health and wellness topics.
+
+I am @technophobe@mastodon.xyz on Mastodon.
