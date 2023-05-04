@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 I’m an iOS software engineer with a keen interest in health and wellness topics.
-
-I am [@technophobe@mastodon.xyz](https://mastodon.xyz/@technophobe) on Mastodon.
